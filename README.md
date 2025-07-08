@@ -105,11 +105,8 @@ https://github.com/user-attachments/assets/d7e37866-136e-429d-9d4b-72db1890f3e8
 
 ---
 
-## Lab Completion
 
-- **Do not delete the VMs.** These will be used in future labs.
-- If you are done for the day, you may "Stop" (deallocate) the VMs in the Azure Portal to save on costs.
 
----
 
-**End of Lab**
+https://github.com/user-attachments/assets/d4a97bdd-be7e-4d61-9d6b-094a7babff57
+

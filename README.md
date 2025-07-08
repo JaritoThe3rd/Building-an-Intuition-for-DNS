@@ -42,6 +42,10 @@
       ```
       > Expected: Now resolves and succeeds.
 
+
+https://github.com/user-attachments/assets/66cd8414-7651-477f-9d00-8b4772e550a0
+
+
 ---
 
 ## Local DNS Cache Exercise

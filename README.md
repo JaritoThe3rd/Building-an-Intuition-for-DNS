@@ -78,6 +78,12 @@ https://github.com/user-attachments/assets/66cd8414-7651-477f-9d00-8b4772e550a0
       ```
       > Expected: Now resolves to `8.8.8.8`.
 
+
+
+https://github.com/user-attachments/assets/d7e37866-136e-429d-9d4b-72db1890f3e8
+
+
+
 ---
 
 ## CNAME Record Exercise
